@@ -21,7 +21,7 @@
   "homepage": "https://github.com/myousuf07/fullstacklearning#readme",
   "devDependencies": {
     "lite-server": "^2.4.0",
-    "node-sass": "^4.11.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.1.2",
